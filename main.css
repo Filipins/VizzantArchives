@@ -1206,7 +1206,7 @@ h1, h2, h3, h4, h5, h6 {
 /* banner area css
 ============================================================================================ */
 .banner-area {
-  background: url(https://media.discordapp.net/attachments/652571383766712320/722585585218486422/banner-bg.jpg?width=1441&height=675) center no-repeat;
+  background: url(https://cdn.jsdelivr.net/gh/Filipins/VizzantArchives@master/banner-bg.jpg) center no-repeat;
   background-size: cover;
   position: relative; }
   @media (max-width: 768px) {

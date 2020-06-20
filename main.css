@@ -1254,8 +1254,9 @@ h1, h2, h3, h4, h5, h6 {
     .banner-area .banner-content p {
       margin: 0; }
   @media (max-width: 991px) {
-    .banner-area .banner-img {
-      display: none; } }
+    ..banner-area .banner-img {
+      width: 200px;
+      height: 200px; } }
 
 .add-bag {
   margin-top: 30px; }
